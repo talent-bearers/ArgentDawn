@@ -1,0 +1,19 @@
+[
+  {
+    "modid": "slimefusion",
+    "name": "Slimefusion",
+    "description": "The storm comes. Take your side, Pure or Tar. Naught is what it seems.",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "",
+    "updateUrl": "",
+    "authorList": [
+      "wiresegal",
+      "Tristaric"
+    ],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
