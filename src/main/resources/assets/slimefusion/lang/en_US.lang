@@ -10,3 +10,14 @@ item.slimefusion:polestone_zircon.name=Zele'nite Zircon
 item.slimefusion:polestone_amethyst.name=Zele'nite Amethyst
 item.slimefusion:polestone_topaz.name=Zele'nite Topaz
 item.slimefusion:polestone_heliodor.name=Zele'nite Heliodor
+
+tile.slimefusion:mark_sapphire.name=Skymark
+tile.slimefusion:mark_smokestone.name=Nightmark
+tile.slimefusion:mark_ruby.name=Firemark
+tile.slimefusion:mark_diamond.name=Clearmark
+tile.slimefusion:mark_emerald.name=Emerald Mark
+tile.slimefusion:mark_garnet.name=Bloodmark
+tile.slimefusion:mark_zircon.name=Starmark
+tile.slimefusion:mark_amethyst.name=Amethyst Mark
+tile.slimefusion:mark_topaz.name=Stonemark
+tile.slimefusion:mark_heliodor.name=Goldmark
