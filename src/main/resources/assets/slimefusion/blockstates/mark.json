@@ -1,0 +1,34 @@
+{
+	"variants": {
+		"polestone=sapphire": {
+			"model": "slimefusion:mark_sapphire"
+		},
+		"polestone=smokestone": {
+			"model": "slimefusion:mark_smokestone"
+		},
+		"polestone=ruby": {
+			"model": "slimefusion:mark_ruby"
+		},
+		"polestone=diamond": {
+			"model": "slimefusion:mark_diamond"
+		},
+		"polestone=emerald": {
+			"model": "slimefusion:mark_emerald"
+		},
+		"polestone=garnet": {
+			"model": "slimefusion:mark_garnet"
+		},
+		"polestone=zircon": {
+			"model": "slimefusion:mark_zircon"
+		},
+		"polestone=amethyst": {
+			"model": "slimefusion:mark_amethyst"
+		},
+		"polestone=topaz": {
+			"model": "slimefusion:mark_topaz"
+		},
+		"polestone=heliodor": {
+			"model": "slimefusion:mark_heliodor"
+		}
+	}
+}

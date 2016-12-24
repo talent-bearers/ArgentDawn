@@ -1,0 +1,7 @@
+{
+  "parent": "slimefusion:block/mark",
+  "textures": {
+    "texture": "slimefusion:items/mark_ruby"
+  }
+}
+}
