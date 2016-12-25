@@ -21,3 +21,19 @@ tile.slimefusion:mark_zircon.name=Starmark
 tile.slimefusion:mark_amethyst.name=Amethyst Mark
 tile.slimefusion:mark_topaz.name=Stonemark
 tile.slimefusion:mark_heliodor.name=Goldmark
+
+tile.slimefusion:snow_log.name=Snowflake Log
+tile.slimefusion:cherry_log.name=Cherrysap Log
+tile.slimefusion:cotton_log.name=Cottonwisp Log
+tile.slimefusion:ember_log.name=Hearthstone Log
+tile.slimefusion:ebony_log.name=Ebony Log
+tile.slimefusion:polar_log.name=Frostcore Log
+tile.slimefusion:shale_log.name=Tortured Log
+
+tile.slimefusion:snow_planks.name=Snowflake Planks
+tile.slimefusion:cherry_planks.name=Cherrysap Planks
+tile.slimefusion:cotton_planks.name=Cottonwisp Planks
+tile.slimefusion:ember_planks.name=Hearthstone Planks
+tile.slimefusion:ebony_planks.name=Ebony Planks
+tile.slimefusion:polar_planks.name=Frostcore Planks
+tile.slimefusion:shale_planks.name=Tortured Planks

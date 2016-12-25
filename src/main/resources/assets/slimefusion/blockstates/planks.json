@@ -1,0 +1,25 @@
+{
+	"variants": {
+		"type=snow": {
+			"model": "slimefusion:snow_planks"
+		},
+		"type=cherry": {
+			"model": "slimefusion:cherry_planks"
+		},
+		"type=cotton": {
+			"model": "slimefusion:cotton_planks"
+		},
+		"type=ember": {
+			"model": "slimefusion:ember_planks"
+		},
+		"type=ebony": {
+			"model": "slimefusion:ebony_planks"
+		},
+		"type=polar": {
+			"model": "slimefusion:polar_planks"
+		},
+		"type=shale": {
+			"model": "slimefusion:shale_planks"
+		}
+	}
+}

@@ -7,4 +7,7 @@ package talent.bearers.slimefusion.common.lib
 object LibNames {
     val JEWEL = "polestone"
     val MARK = "mark"
+    val COLOR_LOG = "color_log"
+    val DARK_LOG = "dark_log"
+    val PLANKS = "planks"
 }

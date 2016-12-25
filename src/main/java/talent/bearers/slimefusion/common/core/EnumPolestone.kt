@@ -1,15 +1,13 @@
 package talent.bearers.slimefusion.common.core
 
-import net.minecraft.util.IStringSerializable
+import talent.bearers.slimefusion.common.block.base.EnumStringSerializable
 
 /**
  * @author WireSegal
  * Created at 10:24 PM on 12/23/16.
  */
-enum class EnumPolestone : IStringSerializable {
+enum class EnumPolestone : EnumStringSerializable {
     SAPPHIRE, SMOKESTONE, RUBY, DIAMOND, EMERALD, GARNET, ZIRCON, AMETHYST, TOPAZ, HELIODOR;
-
-    override fun getName() = name.toLowerCase()
 
     companion object {
         operator fun get(meta: Int)= EnumPolestone.values().getOrElse(meta) { SAPPHIRE }

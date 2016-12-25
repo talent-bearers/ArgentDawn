@@ -1,0 +1,52 @@
+{
+	"variants": {
+		"axis=x,type=snow": {
+			"model": "slimefusion:snow_log", "x": 90, "y": 90
+		},
+		"axis=x,type=cherry": {
+			"model": "slimefusion:cherry_log", "x": 90, "y": 90
+		},
+		"axis=x,type=cotton": {
+			"model": "slimefusion:cotton_log", "x": 90, "y": 90
+		},
+		"axis=x,type=ember": {
+			"model": "slimefusion:ember_log", "x": 90, "y": 90
+		},
+		"axis=y,type=snow": {
+			"model": "slimefusion:snow_log"
+		},
+		"axis=y,type=cherry": {
+			"model": "slimefusion:cherry_log"
+		},
+		"axis=y,type=cotton": {
+			"model": "slimefusion:cotton_log"
+		},
+		"axis=y,type=ember": {
+			"model": "slimefusion:ember_log"
+		},
+		"axis=z,type=snow": {
+			"model": "slimefusion:snow_log", "x": 90
+		},
+		"axis=z,type=cherry": {
+			"model": "slimefusion:cherry_log", "x": 90
+		},
+		"axis=z,type=cotton": {
+			"model": "slimefusion:cotton_log", "x": 90
+		},
+		"axis=z,type=ember": {
+			"model": "slimefusion:ember_log", "x": 90
+		},
+		"axis=none,type=snow": {
+			"model": "slimefusion:snow_log_none"
+		},
+		"axis=none,type=cherry": {
+			"model": "slimefusion:cherry_log_none"
+		},
+		"axis=none,type=cotton": {
+			"model": "slimefusion:cotton_log_none"
+		},
+		"axis=none,type=ember": {
+			"model": "slimefusion:ember_log_none"
+		}
+	}
+}

@@ -1,0 +1,40 @@
+{
+	"variants": {
+		"axis=x,type=ebony": {
+			"model": "slimefusion:ebony_log", "x": 90, "y": 90
+		},
+		"axis=x,type=polar": {
+			"model": "slimefusion:polar_log", "x": 90, "y": 90
+		},
+		"axis=x,type=shale": {
+			"model": "slimefusion:shale_log", "x": 90, "y": 90
+		},
+		"axis=y,type=ebony": {
+			"model": "slimefusion:ebony_log"
+		},
+		"axis=y,type=polar": {
+			"model": "slimefusion:polar_log"
+		},
+		"axis=y,type=shale": {
+			"model": "slimefusion:shale_log"
+		},
+		"axis=z,type=ebony": {
+			"model": "slimefusion:ebony_log", "x": 90
+		},
+		"axis=z,type=polar": {
+			"model": "slimefusion:polar_log", "x": 90
+		},
+		"axis=z,type=shale": {
+			"model": "slimefusion:shale_log", "x": 90
+		},
+		"axis=none,type=ebony": {
+			"model": "slimefusion:ebony_log_none"
+		},
+		"axis=none,type=polar": {
+			"model": "slimefusion:polar_log_none"
+		},
+		"axis=none,type=shale": {
+			"model": "slimefusion:shale_log_none"
+		}
+	}
+}

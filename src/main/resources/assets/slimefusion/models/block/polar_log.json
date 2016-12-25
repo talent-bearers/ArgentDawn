@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_column",
+  "textures": {
+    "end": "slimefusion:blocks/polar_log_top",
+    "side": "slimefusion:blocks/polar_log_side"
+  }
+}
