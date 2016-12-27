@@ -1,0 +1,12 @@
+{
+	"parent": "block/cube",
+	"textures": {
+		"particle": "slimefusion:blocks/shaleweed_side",
+		"up": "slimefusion:blocks/shaleweed_top",
+		"down": "slimefusion:blocks/shaledust",
+		"north": "slimefusion:blocks/shaleweed_side",
+		"south": "slimefusion:blocks/shaleweed_side",
+		"east": "slimefusion:blocks/shaleweed_side",
+		"west": "slimefusion:blocks/shaleweed_side"
+	}
+}

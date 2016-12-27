@@ -1,0 +1,31 @@
+{
+	"variants": {
+		"type=white": {
+			"model": "slimefusion:flower_white"
+		},
+		"type=red": {
+			"model": "slimefusion:flower_red"
+		},
+		"type=orange": {
+			"model": "slimefusion:flower_orange"
+		},
+		"type=yellow": {
+			"model": "slimefusion:flower_yellow"
+		},
+		"type=green": {
+			"model": "slimefusion:flower_green"
+		},
+		"type=blue": {
+			"model": "slimefusion:flower_blue"
+		},
+		"type=indigo": {
+			"model": "slimefusion:flower_indigo"
+		},
+		"type=violet": {
+			"model": "slimefusion:flower_violet"
+		},
+		"type=grass": {
+			"model": "slimefusion:flower_grass"
+		}
+	}
+}

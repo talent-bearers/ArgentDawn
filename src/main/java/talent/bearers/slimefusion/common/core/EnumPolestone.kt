@@ -10,7 +10,7 @@ enum class EnumPolestone : EnumStringSerializable {
     SAPPHIRE, SMOKESTONE, RUBY, DIAMOND, EMERALD, GARNET, ZIRCON, AMETHYST, TOPAZ, HELIODOR;
 
     companion object {
-        operator fun get(meta: Int)= EnumPolestone.values().getOrElse(meta) { SAPPHIRE }
+        operator fun get(meta: Int) = EnumPolestone.values().getOrElse(meta) { SAPPHIRE }
 
         fun getNamesFor(prefix: String) = EnumPolestone.values()
                 .map { prefix + "_" + it.getName() }

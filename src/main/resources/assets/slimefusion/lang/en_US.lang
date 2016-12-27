@@ -55,3 +55,18 @@ tile.slimefusion:quartzite_brick.name=Quartzite Brick
 tile.slimefusion:quartzite_cobble.name=Broken Quartzite
 tile.slimefusion:quartzite_cracked_brick.name=Broken Quartzite Brick
 tile.slimefusion:quartzite_carved.name=Carved Quartzite
+
+tile.slimefusion:bluedust_dirt.name=Bluedust
+tile.slimefusion:bluedust_grass.name=Bluemoss
+tile.slimefusion:shaledust_dirt.name=Shaledust
+tile.slimefusion:shaledust_grass.name=Shaleweed
+
+tile.slimefusion:flower_white.name=Starbloom
+tile.slimefusion:flower_red.name=Heartfire
+tile.slimefusion:flower_orange.name=Royal Lilly
+tile.slimefusion:flower_yellow.name=Moonblossom
+tile.slimefusion:flower_green.name=Emerald Beauty
+tile.slimefusion:flower_blue.name=Weeping Widow
+tile.slimefusion:flower_indigo.name=Queen's Delight
+tile.slimefusion:flower_violet.name=Foilflower
+tile.slimefusion:flower_grass.name=Tall Bluemoss

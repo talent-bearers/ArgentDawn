@@ -1,0 +1,10 @@
+{
+	"variants": {
+		"type=dirt": {
+			"model": "slimefusion:bluedust"
+		},
+		"type=grass": {
+			"model": "slimefusion:bluemoss"
+		}
+	}
+}

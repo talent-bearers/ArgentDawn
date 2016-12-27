@@ -14,14 +14,20 @@ object ModBlocks {
     val QUARTZITE: BlockStone
     val OPAL_QUARTZITE: BlockStone
     val SCORCHED_QUARTZITE: BlockStone
+    val BLUEDUST: BlockZeleniDirt
+    val SHALEDUST: BlockZeleniDirt
+    val FLOWER: BlockZeleniFlower
 
     init {
         MARK = BlockMark()
         COLORFUL_LOG = BlockLogColorful()
         DARK_LOG = BlockLogDark()
         PLANKS = BlockPlanks()
-        QUARTZITE = BlockStone(LibNames.QUARZITE)
-        OPAL_QUARTZITE = BlockStone(LibNames.OPAL_QUARZITE)
-        SCORCHED_QUARTZITE = BlockStone(LibNames.SCORCHED_QUARZITE)
+        QUARTZITE = BlockStone(LibNames.QUARTZITE)
+        OPAL_QUARTZITE = BlockStone(LibNames.OPAL_QUARTZITE)
+        SCORCHED_QUARTZITE = BlockStone(LibNames.SCORCHED_QUARTZITE)
+        BLUEDUST = BlockZeleniDirt(LibNames.BLUEDUST)
+        SHALEDUST = BlockZeleniDirt(LibNames.SHALEDUST)
+        FLOWER = BlockZeleniFlower()
     }
 }

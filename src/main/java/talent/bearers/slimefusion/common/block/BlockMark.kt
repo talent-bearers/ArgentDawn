@@ -9,6 +9,8 @@ import net.minecraft.util.BlockRenderLayer
 import net.minecraft.util.math.AxisAlignedBB
 import net.minecraft.util.math.BlockPos
 import net.minecraft.world.IBlockAccess
+import net.minecraftforge.fml.relauncher.Side
+import net.minecraftforge.fml.relauncher.SideOnly
 import talent.bearers.slimefusion.common.core.EnumPolestone
 import talent.bearers.slimefusion.common.lib.LibNames
 
@@ -24,25 +26,13 @@ class BlockMark : BlockMod(LibNames.MARK, Material.GLASS, *EnumPolestone.getName
     }
 
     override fun getBoundingBox(state: IBlockState?, source: IBlockAccess?, pos: BlockPos?) = AABB
-
-    override fun damageDropped(state: IBlockState) = getMetaFromState(state)
-
     override fun isFullCube(state: IBlockState) = false
     override fun isOpaqueCube(state: IBlockState) = false
+    override fun damageDropped(state: IBlockState) = getMetaFromState(state)
+    override fun getMetaFromState(state: IBlockState) = state.getValue(POLESTONE).ordinal
+    override fun getStateFromMeta(meta: Int) = defaultState.withProperty(POLESTONE, EnumPolestone[meta])
+    override fun createBlockState() = BlockStateContainer(this, POLESTONE)
 
-    override fun getMetaFromState(state: IBlockState): Int {
-        return state.getValue(POLESTONE).ordinal
-    }
-
-    override fun getStateFromMeta(meta: Int): IBlockState {
-        return defaultState.withProperty(POLESTONE, EnumPolestone[meta])
-    }
-
-    override fun createBlockState(): BlockStateContainer {
-        return BlockStateContainer(this, POLESTONE)
-    }
-
-    override fun getBlockLayer(): BlockRenderLayer {
-        return BlockRenderLayer.TRANSLUCENT
-    }
+    @SideOnly(Side.CLIENT)
+    override fun getBlockLayer() = BlockRenderLayer.TRANSLUCENT
 }

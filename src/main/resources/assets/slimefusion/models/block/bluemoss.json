@@ -1,0 +1,12 @@
+{
+	"parent": "block/cube",
+	"textures": {
+		"particle": "slimefusion:blocks/bluemoss_side",
+		"up": "slimefusion:blocks/bluemoss_top",
+		"down": "slimefusion:blocks/bluedust",
+		"north": "slimefusion:blocks/bluemoss_side",
+		"south": "slimefusion:blocks/bluemoss_side",
+		"east": "slimefusion:blocks/bluemoss_side",
+		"west": "slimefusion:blocks/bluemoss_side"
+	}
+}

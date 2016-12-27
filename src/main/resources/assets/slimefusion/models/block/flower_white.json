@@ -1,0 +1,6 @@
+{
+	"parent": "block/cross",
+	"textures": {
+		"cross": "slimefusion:blocks/flower_0"
+	}
+}
