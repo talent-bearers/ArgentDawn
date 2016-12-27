@@ -37,3 +37,21 @@ tile.slimefusion:ember_planks.name=Hearthstone Planks
 tile.slimefusion:ebony_planks.name=Ebony Planks
 tile.slimefusion:polar_planks.name=Frostcore Planks
 tile.slimefusion:shale_planks.name=Tortured Planks
+
+tile.slimefusion:scorch_quartzite_smooth.name=Scorched Quartzite
+tile.slimefusion:scorch_quartzite_brick.name=Scorched Quartzite Brick
+tile.slimefusion:scorch_quartzite_cobble.name=Broken Scorched Quartzite
+tile.slimefusion:scorch_quartzite_cracked_brick.name=Broken Scorched Quartzite Brick
+tile.slimefusion:scorch_quartzite_carved.name=Carved Scorched Quartzite
+
+tile.slimefusion:opal_quartzite_smooth.name=Opalescent Quartzite
+tile.slimefusion:opal_quartzite_brick.name=Opalescent Quartzite Brick
+tile.slimefusion:opal_quartzite_cobble.name=Broken Opalescent Quartzite
+tile.slimefusion:opal_quartzite_cracked_brick.name=Broken Opalescent Quartzite Brick
+tile.slimefusion:opal_quartzite_carved.name=Carved Opalescent Quartzite
+
+tile.slimefusion:quartzite_smooth.name=Quartzite
+tile.slimefusion:quartzite_brick.name=Quartzite Brick
+tile.slimefusion:quartzite_cobble.name=Broken Quartzite
+tile.slimefusion:quartzite_cracked_brick.name=Broken Quartzite Brick
+tile.slimefusion:quartzite_carved.name=Carved Quartzite

@@ -1,0 +1,19 @@
+{
+	"variants": {
+		"type=smooth": {
+			"model": "slimefusion:opal_quartzite_smooth"
+		},
+		"type=brick": {
+			"model": "slimefusion:opal_quartzite_brick"
+		},
+		"type=cracked_brick": {
+			"model": "slimefusion:opal_quartzite_cracked_brick"
+		},
+		"type=carved": {
+			"model": "slimefusion:opal_quartzite_carved"
+		},
+		"type=cobble": {
+			"model": "slimefusion:opal_quartzite_cobble"
+		}
+	}
+}

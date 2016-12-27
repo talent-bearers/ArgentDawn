@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "slimefusion:blocks/scorch_quartzite_cracked_brick"
+  }
+}

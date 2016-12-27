@@ -10,4 +10,7 @@ object LibNames {
     val COLOR_LOG = "color_log"
     val DARK_LOG = "dark_log"
     val PLANKS = "planks"
+    val QUARZITE = "quartzite"
+    val OPAL_QUARZITE = "opal_quartzite"
+    val SCORCHED_QUARZITE = "scorch_quartzite"
 }
