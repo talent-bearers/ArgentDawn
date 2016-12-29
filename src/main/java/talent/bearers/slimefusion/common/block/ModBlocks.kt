@@ -17,6 +17,7 @@ object ModBlocks {
     val BLUEDUST: BlockZeleniDirt
     val SHALEDUST: BlockZeleniDirt
     val FLOWER: BlockZeleniFlower
+    val ORE: BlockPolestoneOre
 
     init {
         MARK = BlockMark()
@@ -29,5 +30,6 @@ object ModBlocks {
         BLUEDUST = BlockZeleniDirt(LibNames.BLUEDUST)
         SHALEDUST = BlockZeleniDirt(LibNames.SHALEDUST)
         FLOWER = BlockZeleniFlower()
+        ORE = BlockPolestoneOre()
     }
 }

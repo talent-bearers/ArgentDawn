@@ -70,3 +70,14 @@ tile.slimefusion:flower_blue.name=Weeping Widow
 tile.slimefusion:flower_indigo.name=Queen's Delight
 tile.slimefusion:flower_violet.name=Foilflower
 tile.slimefusion:flower_grass.name=Tall Bluemoss
+
+tile.slimefusion:ore_sapphire.name=Zele'nite Sapphire Ore
+tile.slimefusion:ore_smokestone.name=Zele'nite Smokestone Geode
+tile.slimefusion:ore_ruby.name=Zele'nite Ruby Ore
+tile.slimefusion:ore_diamond.name=Zele'nite Diamond Ore
+tile.slimefusion:ore_emerald.name=Zele'nite Emerald Ore
+tile.slimefusion:ore_garnet.name=Zele'nite Garnet Ore
+tile.slimefusion:ore_zircon.name=Zele'nite Zircon Ore
+tile.slimefusion:ore_amethyst.name=Zele'nite Amethyst Geode
+tile.slimefusion:ore_topaz.name=Zele'nite Topaz Ore
+tile.slimefusion:ore_heliodor.name=Zele'nite Heliodor Ore
