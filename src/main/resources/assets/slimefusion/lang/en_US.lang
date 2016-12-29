@@ -11,6 +11,18 @@ item.slimefusion:polestone_amethyst.name=Zele'nite Amethyst
 item.slimefusion:polestone_topaz.name=Zele'nite Topaz
 item.slimefusion:polestone_heliodor.name=Zele'nite Heliodor
 
+item.slimefusion:metal_crystal_copper.name=Lunar Copper Crystal
+item.slimefusion:metal_crystal_iron.name=Lunar Iron Crystal
+item.slimefusion:metal_crystal_gold.name=Lunar Gold Crystal
+item.slimefusion:metal_crystal_tin.name=Lunar Tin Crystal
+item.slimefusion:metal_crystal_cadmium.name=Lunar Cadmium Crystal
+item.slimefusion:metal_crystal_aluminum.name=Lunar Aluminum Crystal
+item.slimefusion:metal_crystal_chromium.name=Lunar Chromium Crystal
+item.slimefusion:metal_crystal_zinc.name=Lunar Zinc Crystal
+item.slimefusion:metal_crystal_lead.name=Lunar Lead Crystal
+item.slimefusion:metal_crystal_bismuth.name=Lunar Bismuth Crystal
+item.slimefusion:metal_crystal_nickel.name=Lunar Ferrous Crystal
+
 tile.slimefusion:mark_sapphire.name=Skymark
 tile.slimefusion:mark_smokestone.name=Nightmark
 tile.slimefusion:mark_ruby.name=Firemark
@@ -81,3 +93,15 @@ tile.slimefusion:ore_zircon.name=Zele'nite Zircon Ore
 tile.slimefusion:ore_amethyst.name=Zele'nite Amethyst Geode
 tile.slimefusion:ore_topaz.name=Zele'nite Topaz Ore
 tile.slimefusion:ore_heliodor.name=Zele'nite Heliodor Ore
+
+tile.slimefusion:ore_crystal_copper.name=Copper Moonshard
+tile.slimefusion:ore_crystal_iron.name=Iron Moonshard
+tile.slimefusion:ore_crystal_gold.name=Gold Moonshard
+tile.slimefusion:ore_crystal_tin.name=Tin Moonshard
+tile.slimefusion:ore_crystal_cadmium.name=Cadmium Moonshard
+tile.slimefusion:ore_crystal_aluminum.name=Aluminum Moonshard
+tile.slimefusion:ore_crystal_chromium.name=Chromium Moonshard
+tile.slimefusion:ore_crystal_zinc.name=Zinc Moonshard
+tile.slimefusion:ore_crystal_lead.name=Lead Moonshard
+tile.slimefusion:ore_crystal_bismuth.name=Bismuth Moonshard
+tile.slimefusion:ore_crystal_nickel.name=Ferrous Moonshard

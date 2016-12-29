@@ -17,4 +17,6 @@ object LibNames {
     val BLUEDUST = "bluedust"
     val FLOWER = "flower"
     val ORE = "ore"
+    val CRYSTAL = "metal_crystal"
+    val MOONSHARD = "ore_crystal"
 }

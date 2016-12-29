@@ -6,8 +6,10 @@ package talent.bearers.slimefusion.common.items
  */
 object ModItems {
     val GEM: ItemJewel
+    val CRYSTAL: ItemCrystal
 
     init {
         GEM = ItemJewel()
+        CRYSTAL = ItemCrystal()
     }
 }

@@ -1,6 +1,6 @@
 {
   "parent": "slimefusion:block/ore_crystal",
   "textures": {
-    "texture": "slimefusion:blocks/moonshard_copper"
+    "texture": "slimefusion:blocks/moonshard_aluminium"
   }
 }

@@ -18,6 +18,7 @@ object ModBlocks {
     val SHALEDUST: BlockZeleniDirt
     val FLOWER: BlockZeleniFlower
     val ORE: BlockPolestoneOre
+    val METAL_ORE: BlockMoonshard
 
     init {
         MARK = BlockMark()
@@ -31,5 +32,6 @@ object ModBlocks {
         SHALEDUST = BlockZeleniDirt(LibNames.SHALEDUST)
         FLOWER = BlockZeleniFlower()
         ORE = BlockPolestoneOre()
+        METAL_ORE = BlockMoonshard()
     }
 }

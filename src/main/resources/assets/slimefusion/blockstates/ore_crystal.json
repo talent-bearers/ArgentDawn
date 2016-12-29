@@ -1,0 +1,40 @@
+{
+	"variants": {
+		"ore=copper,side=up": {
+			"model": "slimefusion:ore_crystal_copper", "x": 180
+		},
+		"ore=copper,side=down": {
+			"model": "slimefusion:ore_crystal_copper"
+		},
+		"ore=iron,side=up": {
+			"model": "slimefusion:ore_crystal_iron", "x": 180
+		},
+		"ore=iron,side=down": {
+			"model": "slimefusion:ore_crystal_iron"
+		},
+		"ore=tin,side=up": {
+			"model": "slimefusion:ore_crystal_tin", "x": 180
+		},
+		"ore=tin,side=down": {
+			"model": "slimefusion:ore_crystal_tin"
+		},
+		"ore=aluminum,side=up": {
+			"model": "slimefusion:ore_crystal_aluminum", "x": 180
+		},
+		"ore=aluminum,side=down": {
+			"model": "slimefusion:ore_crystal_aluminum"
+		},
+		"ore=chromium,side=up": {
+			"model": "slimefusion:ore_crystal_chromium", "x": 180
+		},
+		"ore=chromium,side=down": {
+			"model": "slimefusion:ore_crystal_chromium"
+		},
+		"ore=lead,side=up": {
+			"model": "slimefusion:ore_crystal_lead", "x": 180
+		},
+		"ore=lead,side=down": {
+			"model": "slimefusion:ore_crystal_lead"
+		}
+	}
+}
